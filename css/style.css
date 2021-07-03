@@ -228,11 +228,12 @@ h5{
 
 
 .btn.btn-primary.solid.blank:hover{
-	color: #333;
+	color: #1108e8;
 }
 
 .btn.btn-primary.solid:hover{
-	background: none;
+	background: #1108e8;
+	border-color: #1108e8;
 }
 
 ul.circle, ul.check-list{
