@@ -40,8 +40,12 @@ blockquote {
 /* Common styles
 ================================================== */
 
-.heading:hover .title-icon{
+.title-icon{
 	color: #ff0000;
+}
+
+.heading:hover .title-icon{
+	color: #110e8e;
 }
 
 h2.entry-title a:hover{

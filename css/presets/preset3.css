@@ -42,11 +42,11 @@ blockquote {
 ================================================== */
 
 .heading:hover .title-icon{
-	color: #ee3b24;
+	color: #110e8e;
 }
 
 h2.entry-title a:hover{
-	color: #ee3b24;
+	color: #110e8e;
 }
 
 /* Icon pentagon */
@@ -303,7 +303,7 @@ ul.navbar-nav > li.active > a{
 
 
 .widget-tab h4.entry-title a:hover{
-	color: #ee3b24;
+	color: #110e8e;
 }
 
 .widget-tags ul > li a:hover{
@@ -357,7 +357,7 @@ ul.navbar-nav > li.active > a{
 }
 
 .post-title a:hover{
-	color: #ee3b24;
+	color: #110e8e;
 }
 
 .portfolio-static-desc a:hover{

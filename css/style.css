@@ -215,6 +215,7 @@ h5{
 
 .btn.btn-primary.white:hover{
 	border: 2px solid transparent;
+	background-color: #1108e8
 }
 
 .btn.btn-primary.square{
@@ -388,7 +389,15 @@ blockquote {
 	font-size: 32px;
 	margin-right: 15px;
 	margin-top: 9px;
-	color: #959595;
+	color: #ff0000;
+}
+
+.title-icon:hover{ 
+	color: #110e8e;
+}
+
+.heading:hover .title-icon{
+	color: #110e8e;
 }
 
 .title-icon.classic{
@@ -2567,7 +2576,7 @@ ul.arrow li:before {
 }
 
 .banner-title-content h2{
-	color: #ff0000;
+	color: #fff;
 	font-size: 36px;
 }
 
