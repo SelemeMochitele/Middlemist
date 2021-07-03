@@ -206,11 +206,13 @@ h5{
 
 .btn.btn-primary:hover{
 	color: #fff;
+	
 }
 
 .btn.btn-primary.white{
-	border: 2px solid #fff;
+	border: 2px solid #ff0000;
 	color: #fff;
+	background-color: #ff0000;
 }
 
 .btn.btn-primary.white:hover{
