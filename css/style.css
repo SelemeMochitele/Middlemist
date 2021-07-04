@@ -305,7 +305,7 @@ blockquote {
 /* Angle */
 
 .angle:before {
-	background: #fff;
+	/*background: #fff;*/
 	content: "";
 	height: 75px;
 	top: -37px;
